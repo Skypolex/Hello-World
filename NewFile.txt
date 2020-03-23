@@ -1,0 +1,3 @@
+Add newFile.txt to the new branch "AddFile"
+
+Finish NewFile.txt
